@@ -8,7 +8,7 @@
  * 基本上""(雙引號)表示字串(string) , ''(單引號)表示字元(char)
  * 把四個字元(char)放到長度為4的陣列(array)裡面形成字串(string)
  **/
-
+//123132
 var QUESTION = this.initQuestion();
  
  //按鈕事件
